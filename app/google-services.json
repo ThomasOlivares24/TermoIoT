@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "800614730450",
+    "project_id": "termoiot-53a3d",
+    "storage_bucket": "termoiot-53a3d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800614730450:android:4e15f9931f8ef0e38b3b0b",
+        "android_client_info": {
+          "package_name": "com.example.termoiot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd5nygnvGJ5-yBYJon__f_QI_vPhMJLf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
